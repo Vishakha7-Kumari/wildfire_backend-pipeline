@@ -1,7 +1,7 @@
 # Wildfire Risk Prediction API
 
 A FastAPI application that provides wildfire risk predictions for India, including heatmap generation and tile serving for mapping applications.
-
+The trained model.pkl is not added into this repo to avoid plagiarism.
 ## Features
 
 - **Risk Prediction**: Predict wildfire risk for specific coordinates based on weather data and ML model
